@@ -4,7 +4,7 @@ Fill the form to tell me something about you :)
 
 [Website demo](https://agata-nowicka.github.io/survey-form/)
 
-![Website screenshot](agata-nowicka/portfolio/img/form.png) 
+![Website screenshot](https://github.com/agata-nowicka/portfolio/blob/master/img/form.png) 
 
 
 ## Technologies
